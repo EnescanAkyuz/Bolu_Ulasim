@@ -1,5 +1,8 @@
 # Bolu_Ulasim
-Bolu şehri için hazırlanmış demo şehir içi ulaşım uygulaması.
+Bolu şehri için hazırlanmış demo şehir içi ulaşım uygulaması. <br/>
+##Kullanılan Teknolojiler##<br/>
+`Java
+Firebase`
 
 **Login Page** <br/>
 ![images1](https://github.com/EnescanAkyuz/Bolu_Ulasim/blob/main/Resim1.png)
