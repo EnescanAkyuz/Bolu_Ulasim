@@ -1,6 +1,6 @@
 # Bolu_Ulasim
 Bolu şehri için hazırlanmış demo şehir içi ulaşım uygulaması. <br/><br/>
-##Kullanılan Teknolojiler##<br/>
+##Kullanılan Teknolojiler <br/>
 `Java
 Firebase`<br/>
 
